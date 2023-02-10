@@ -8,6 +8,7 @@ Official Github for the Oakland Outreach & Shindig
 # Repositories:
 * Coming soon...
 
+# Team Members:
 ## Vice Presidents:
 * Bossslime - Alex Christie
 * DrFineSir - JP
