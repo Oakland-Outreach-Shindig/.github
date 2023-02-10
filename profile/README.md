@@ -1,6 +1,6 @@
 # Oakland Outreach & Shindig Programming Github
 
-<p style="color: red">Vice Presidents:<p>
+## Vice Presidents
 * Bossslime - Alex Christie
 * DrFineSir - JP
 
