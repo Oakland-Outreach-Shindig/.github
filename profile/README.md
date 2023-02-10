@@ -1,4 +1,9 @@
 # Oakland Outreach & Shindig Programming Github
+Official Github for the Oakland Outreach & Shindig
+
+# Projects
+* [Job Simulator](https://github.com/orgs/Oakland-Outreach-Shindig/projects/2)
+* [Personality Quiz](https://github.com/orgs/Oakland-Outreach-Shindig/projects/1)
 
 ## Vice Presidents
 * Bossslime - Alex Christie
