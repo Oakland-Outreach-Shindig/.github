@@ -9,6 +9,8 @@ Official Github for the Oakland Outreach & Shindig
 * Coming soon...
 
 # Team Members:
+[GitHub Username] - [Real Name]
+
 ## Vice Presidents:
 * Bossslime - Alex Christie
 * DrFineSir - JP
@@ -26,5 +28,6 @@ Official Github for the Oakland Outreach & Shindig
 * Midnight926 - Adam Ortiz
 * GrantHoff - Grant Hoffman
 * TheMissingMilk - Brendan Last
+* Brett hasnt made a github yet
 
-# If you are from AM Programming trying to spy on us. LEAVE, there is nothing here for you to see.
+# If you are from AM Programming and are trying to spy on us. LEAVE, there is nothing here for you to see.
