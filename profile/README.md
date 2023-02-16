@@ -28,6 +28,6 @@ Official Github for the Oakland Outreach & Shindig
 * Midnight926 - Adam Ortiz
 * GrantHoff - Grant Hoffman
 * TheMissingMilk - Brendan Last
-* Brett hasnt made a github yet
+* Bpman628 - Brett
 
 # If you are from AM Programming and are trying to spy on us. LEAVE, there is nothing here for you to see.
